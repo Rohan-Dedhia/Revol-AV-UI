@@ -2,7 +2,7 @@
 
 A sleek and responsive front-end interface for the **Revol AV Smart Home System**, designed to provide a smooth user experience across sign-up, login, profile management, and milestone tracking.
 
-**Revol AV Preview:** https://drive.google.com/file/d/1yw3Szlx6Kc66Aizm_mLkTQTy3J_biT8q/view?usp=drive_link
+**Revol AV Preview:** https://drive.google.com/file/d/1McIZl-0xqEqcpMP0WR_e8FMxBe7Mmen8/view?usp=drive_link
 
 ## 🚀 Features
 
